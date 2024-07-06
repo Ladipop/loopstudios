@@ -562,5 +562,9 @@ footer {
 @media all and (max-width: 500px) {
   header {
     padding: 2rem;
+    padding-bottom: 6rem;
+  }
+  .intro-section {
+    margin: 3rem;
   }
 }
