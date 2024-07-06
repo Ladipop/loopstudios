@@ -559,3 +559,8 @@ footer {
     text-align: left;
   }
 }
+@media all and (max-width: 500px) {
+  header {
+    padding: 2rem;
+  }
+}
